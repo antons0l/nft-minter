@@ -1,0 +1,20 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #222;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .navbar .brand {
+    font-size: 24px;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .navbar .user-address {
+    color: #fff;
+    font-size: 14px;
+  }
+  
