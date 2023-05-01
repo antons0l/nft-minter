@@ -2,7 +2,7 @@
 
 This project is a simple demo of an NFT mint web3 application.
 
-![](screenshot.gif)
+![](screenshot.png)
 
 ## How to create a similar project from scratch
 
